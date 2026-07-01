@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello from Main Branch rsion 2" << endl;
+    cout << "Hello from Mainanch rsion 2" << endl;
     return 0;
 }
